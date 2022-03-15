@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunhealinggoddess
 - 👀 I’m interested in: Yoga, Tradtional Medicine and Decolonization
-- 🌱 I’m currently learning, Full Stack at Le Wagon
+- 🌱 Front-End Developer from Le Wagon Batch-791
 - 👽 The Truth is Out There...
 
 
